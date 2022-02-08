@@ -1,0 +1,54 @@
+body {
+  background-color: black;
+  align-content: center;
+}
+
+h1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  color: red;
+}
+
+h2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  color: blue;
+}
+
+li {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  color: red;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.cenas {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+p {
+  color: white;
+  font-style: italic;
+}
+
+.coisas {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
